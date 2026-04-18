@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "glowing_stick:glowing_stick",
+      "category": "equipment"
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Glowing Stick"
+      },
+      "minecraft:icon": "glowing_stick",
+      "minecraft:hand_equipped": false,
+      "minecraft:foil": true,
+      "minecraft:enchant_slot": "all"
+    }
+  }
+}
